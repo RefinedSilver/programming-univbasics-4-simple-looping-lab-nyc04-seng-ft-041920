@@ -6,7 +6,7 @@ end
 
 def loop_message_n_times(n, int)
 	count = 0
-  while count < limit do
+  while count < int do
   	puts n
   	count += 1
   end
