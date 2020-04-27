@@ -4,10 +4,10 @@ def loop_message_five_times(s)
   end
 end
 
-def loop_message_n_times(n, int)
+def loop_message_n_times(str, int)
 	count = 0
   while count < int do
-  	puts n
+  	puts str
   	count += 1
   end
 end
