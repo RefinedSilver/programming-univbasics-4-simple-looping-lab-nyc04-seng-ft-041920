@@ -7,13 +7,11 @@ loop_message_five_times("Flatiron School is Awesome")
 
 def loop_message_n_times(n, int)
 	count = 0
-
   while count < limit do
   	puts n
   	count += 1
   end
 end
-loop_message_five_times("Flatiron")
 
 def output_array array
   counter = 0
