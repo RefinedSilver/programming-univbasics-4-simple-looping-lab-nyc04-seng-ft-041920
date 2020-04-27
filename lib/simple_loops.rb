@@ -4,3 +4,13 @@ def loop_message_five_times(s)
   end
 end
 loop_message_five_times("Flatiron School is Awesome")
+
+
+def output_array array
+  counter = 0
+  while counter < array.length do
+    puts array[counter]
+    counter += 1
+  end
+end
+output_array()
