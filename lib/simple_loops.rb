@@ -3,7 +3,7 @@ def loop_message_five_times(s)
   	puts s
   end
 end
-loop_message_five_times("Flatiron School is Awesome")
+#loop_message_five_times("Flatiron School is Awesome")
 
 def loop_message_n_times(n, int)
 	count = 0
