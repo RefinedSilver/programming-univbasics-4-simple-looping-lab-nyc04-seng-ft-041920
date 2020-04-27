@@ -3,4 +3,4 @@ def loop_message_five_times(a)
   	puts a
   end
 end
-loop_message_five_times
+loop_message_five_times(5)
