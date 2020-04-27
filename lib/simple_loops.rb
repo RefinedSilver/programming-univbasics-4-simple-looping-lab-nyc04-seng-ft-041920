@@ -1,3 +1,6 @@
-def loop_message_five_times(array)
-  5.times do { puts array }
+def loop_message_five_times(a)
+  5.times do
+  	puts a
+  end
 end
+loop_message_five_times
