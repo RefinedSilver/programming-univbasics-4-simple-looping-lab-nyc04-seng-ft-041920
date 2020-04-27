@@ -19,4 +19,4 @@ def output_array array
     counter += 1
   end
 end
-output_array(['Dog', 'Cat', 'Fish', 'Bird', 'Hamster'])
+#output_array(['Dog', 'Cat', 'Fish', 'Bird', 'Hamster'])
