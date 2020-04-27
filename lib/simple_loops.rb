@@ -19,3 +19,10 @@ def output_array array
     counter += 1
   end
 end
+def return_string_array(a)
+	count = 0
+	while count < a.length do
+		puts a[count].to_s
+		count += 1
+	end
+end
